@@ -6,7 +6,7 @@ watch the *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 ## Project Source Code
 * [Hangman_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/hangman_game)
-*   python semantics & syntax
+  * python semantics & syntax
 
 *[boggle_game_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/boggle_game_solver)*
   
