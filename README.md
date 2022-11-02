@@ -8,19 +8,23 @@ watch the *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 * [Hangman_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/hangman_game)
   * python semantics & syntax
 
-*[bouncing_ball_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/bouncing_ball_game)*
+* [Weather_master](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/weather_master)
+  * python semantics & syntax
 
-*[breakout_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/breakout_game)*
+* [Breakout_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/breakout_game)
+  * animation &game designing
 
-*[photoshop_1](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/photoshop_1)*
+* [Photoshop_1](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/photoshop_1)
+  * image processing
 
-*[photoshop_2](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/photoshop_2)*
+* [Photoshop_2](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/photoshop_2)
+  * image processing
 
-*[quadratic_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/quadratic_solver)*
-
-*[search_name_popularity](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/search_name_popularity)*
-
-*[weather_master](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/weather_master)*
+* [Search_name_popularity](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/search_name_popularity)
+  * data structure
 
 * [Boggle_game_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/boggle_game_solver)
   * recursive function
+
+* [quadratic_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/quadratic_solver)*
+* [bouncing_ball_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/bouncing_ball_game)*
