@@ -8,9 +8,6 @@ watch the *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 * [Hangman_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/hangman_game)
   * python semantics & syntax
 
-*[boggle_game_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/boggle_game_solver)*
-  
-
 *[bouncing_ball_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/bouncing_ball_game)*
 
 *[breakout_game](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/breakout_game)*
@@ -24,3 +21,6 @@ watch the *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 *[search_name_popularity](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/search_name_popularity)*
 
 *[weather_master](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/weather_master)*
+
+* [Boggle_game_solver](https://github.com/Josepharoundyou/stanCode_Projects/tree/main/boggle_game_solver)
+ * recursive function
